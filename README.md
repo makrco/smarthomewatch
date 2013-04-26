@@ -1,4 +1,4 @@
 smarthomewatch
 ==============
 
-pebble home automation hack
+pebble home automation hack: http://makr.co/blog/pebble-home-automation/
